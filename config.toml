@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "https://winthemers.github.io/faq/"
 languageCode = "en-US"
 title = "Simple FAQ Theme for Hugo"
 theme = "hugo-faq-theme"
